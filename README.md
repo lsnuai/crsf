@@ -9,18 +9,18 @@ Achieving accurate, fast and interpretable time series classification (TSC) has 
 
 ## Experimental Results
 
-- [50 datasets](http://tsdm.lsnu.edu.cn/crsf/results/01-Dataset.csv) from [UCR Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
-- [All accuracy](http://tsdm.lsnu.edu.cn/crsf/results/accuracy.pdf) of 50 datasets(.pdf)
-- [Download all results](http://tsdm.lsnu.edu.cn/crsf/results/results.zip)(.csv)
-- CD diagram of average rankings compared with 7 classifiers ![CD Diagram](http://tsdm.lsnu.edu.cn/crsf/img/Figure_03-CDDiagram.svg)
-- Speedup ratio compared with gRSF ![Speedup Ratio compared with gRSF](http://tsdm.lsnu.edu.cn/crsf/img/Figure_04-Speedup.svg)
+- [50 datasets](./results/01-Dataset.csv) from [UCR Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/)
+- [All accuracy](./results/accuracy.pdf) of 50 datasets(.pdf)
+- [Download all results](./results/results.zip)(.csv)
+- CD diagram of average rankings compared with 7 classifiers ![CD Diagram](./img/Figure_03-CDDiagram.svg)
+- Speedup ratio compared with gRSF ![Speedup Ratio compared with gRSF](./img/Figure_04-Speedup.svg)
 
 ## Binary Code
 
 We implemented the proposed algorithm CRSF in Java.
 
 - Download
-  You can download the [binary code](http://tsdm.lsnu.edu.cn/crsf/code/CRSF.zip) compressed with password, and you can get the password by contacting with [yangjun192@mails.ucas.ac.cn](mailto:yangjun192@mails.ucas.ac.cn).
+  You can download the [binary code](./code/CRSF.zip) compressed with password, and you can get the password by contacting with [yangjun192@mails.ucas.ac.cn](mailto:yangjun192@mails.ucas.ac.cn).
 
 - Usage
 
