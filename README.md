@@ -1,7 +1,4 @@
-# crsf
 # Accurate and Fast Time Series Classification based on Compressed Random Shapelet Forest
-
-
 
 ## Introduction
 
@@ -50,7 +47,3 @@ We implemented the proposed algorithm CRSF in Java.
 ## Acknowledgement
 
 Thanks the research community for supporting the datasets.
-
-------
-
-© 2021,LSNU Time Series Data Mining Group.
