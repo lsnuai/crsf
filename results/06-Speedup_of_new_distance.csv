@@ -1,0 +1,17 @@
+No,ID,Type,Name,Accu SaxDist,Accu NewDist,Accu Improvement,Improvement Perc
+1,2,Image,ArrowHead                                         ,0.706 ,0.723 ,0.018 ,2.5%
+2,5,Image,BirdChicken                                       ,0.900 ,0.965 ,0.065 ,7.2%
+3,7,Simulated,CBF                                               ,0.993 ,0.994 ,0.001 ,0.1%
+4,19,Sensor,Earthquakes                                       ,0.748 ,0.748 ,0.000 ,0.0%
+5,20,ECG,ECG200                                            ,0.829 ,0.847 ,0.018 ,2.2%
+6,23,Device,ElectricDevices                                   ,0.727 ,0.728 ,0.001 ,0.1%
+7,34,Motion,Haptics                                           ,0.468 ,0.471 ,0.003 ,0.7%
+8,36,Motion,InlineSkate                                       ,0.388 ,0.406 ,0.018 ,4.6%
+9,39,Device,LargeKitchenAppliances                            ,0.825 ,0.830 ,0.005 ,0.6%
+10,41,Sensor,Lightning7                                        ,0.749 ,0.764 ,0.015 ,2.0%
+11,42,Simulated,Mallat                                            ,0.951 ,0.971 ,0.020 ,2.1%
+12,62,Image,ShapesAll                                         ,0.849 ,0.854 ,0.005 ,0.6%
+13,69,Image,Symbols                                           ,0.937 ,0.948 ,0.011 ,1.1%
+14,81,Spectro,Wine                                              ,0.500 ,0.766 ,0.266 ,53.2%
+15,101,HRM,Fungi                                             ,0.945 ,0.970 ,0.025 ,2.7%
+,,,,,,0.031 ,5.3%
